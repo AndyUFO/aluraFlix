@@ -22,7 +22,7 @@ export const Header = () => {
           className="btn btn-info btn-outline text-2xl"
           onClick={redirectToHome}
         >
-          HOME
+          HOME!!!
         </button>
         <button
           className="btn btn-info  btn-outline text-2xl"
